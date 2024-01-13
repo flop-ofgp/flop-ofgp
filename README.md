@@ -1,6 +1,6 @@
-- 👋 Hi, I’m: @flop-ofgp
+- 👋 Hi, I’m: @flop ofgp
 - 👀 I’m interested in: gp stuff
-- 🌱 I’m currently learning: python
+- 🌱 I’m currently learning: python and js
 - 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: hold my hand
 
